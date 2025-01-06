@@ -1,0 +1,28 @@
+
+
+body {
+background-color:#ddd;
+color: #444 ;
+font-family:Helvetica;
+line-height: 1.5;
+width: 60%;
+margin: auto;
+padding: 10px;
+}
+
+main {
+background-color: white;
+margin: 10px;
+padding:15px;
+border-radius: 10px;
+}
+
+section {
+border-top: 1px solid grey;
+margin-bottom: 20px;
+}
+
+h1, h2 {
+margin-top:1px ;
+color: rgb(140, 76, 8);
+}
